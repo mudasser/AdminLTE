@@ -1,0 +1,5 @@
+files:
+  - source: /pages/UI/
+    ignore:
+      - icons.html
+    translation: /pages/UI/%two_letters_code%/%file_name%.%file_extension%
